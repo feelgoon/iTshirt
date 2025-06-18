@@ -1,1 +1,1 @@
-iTshirt-생성
+iTshirt-생성 -> 사이트 설명 업데이트
